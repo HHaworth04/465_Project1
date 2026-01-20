@@ -4,7 +4,11 @@
 
 
 |Name: Hunter Haworth|
+|--------------------|
 |Major: EE           |
+|--------------------|
 |Year: Junior        |
+|--------------------|
 |Fun Fact: I was born at home!|
+|--------------------|
 
